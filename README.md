@@ -25,3 +25,15 @@ Data Bootcamp Module 15: R
 ![This is an image](https://github.com/HansFeddersen/Election_Analysis/blob/main/Challenge/Resources/More/Total%20_number%20_of_votes.png)
 
 All lots in total meet the design specification (variance of 62.29). If we look at each lot individually, only lot 1 and 2 meet the design specification (with 0.979 and 7.46 respectively), while lot does not meet the specification (variance of 170.28)
+
+
+## T-Tests on Suspension Coils
+
+**Summarize your interpretation and findings for the t-test results**
+
+
+![This is an image](https://github.com/HansFeddersen/Election_Analysis/blob/main/Challenge/Resources/More/Total%20_number%20_of_votes.png)
+
+Looking at the p-value, only with de data from lot 3 we can conclude that is statiscally different from the mean, because is the only one where the p-value is less than 0.05 and in this case we are working with a significance level of 0.05 percent.
+
+## Study Design: MechaCar vs Competition
